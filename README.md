@@ -4,17 +4,21 @@ Assignment Overview:
 How to Run the Application:
 Steps to run the application:
 
-1. Execute the following command in the terminal.
+1.select the file name in the terminal.
 
+cd pro
+
+2. Execute the following command in the terminal.
 npm start
-2. Open the web browser and type the following URL in the address bar.
+
+3. Open the web browser and type the following URL in the address bar.
 
 http://localhost:3000/
 
 Technologies Used:
-ReactJS
-CSS
-JSX
+ReactJS,
+CSS,
+JSX,
 
 contact details:
 8296669819
