@@ -9,6 +9,7 @@ Steps to run the application:
 cd pro
 
 2. Execute the following command in the terminal.
+
 npm start
 
 3. Open the web browser and type the following URL in the address bar.
